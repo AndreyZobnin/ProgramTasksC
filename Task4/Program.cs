@@ -5,5 +5,5 @@ int result = 1; //переменная =1
 while (result < num) //цикл пока 1 меньше числа
    {
    Console.WriteLine(result + 1); //положить 1 в цикл
-   result += 2; //добавька еще 2 )
+   result += 2; //добавька еще 2 ).
    }  
