@@ -1,7 +1,7 @@
 ﻿//3 дз
-int a;                             
+int a;
 Console.Write("введите число: ");
-a = int.Parse(Console.ReadLine());
+a =  Convert.ToInt32(Console.ReadLine());
 if (a % 2==1) //формула определение четности числа Если ... и т.д.
     {
     Console.WriteLine("число нечетное");
