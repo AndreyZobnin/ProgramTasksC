@@ -1,5 +1,4 @@
-﻿Console.WriteLine("\n Задача 21");
-int x1 = Coordinate("x", "A");
+﻿int x1 = Coordinate("x", "A");
 int y1 = Coordinate("y", "A");
 int z1 = Coordinate("z", "A");
 int x2 = Coordinate("x", "B");
