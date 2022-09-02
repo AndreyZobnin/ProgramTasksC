@@ -8,3 +8,4 @@ int dayNumber = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("это  не день недели!");
   }
   else Console.WriteLine("(этот день не выходной!)");
+  
