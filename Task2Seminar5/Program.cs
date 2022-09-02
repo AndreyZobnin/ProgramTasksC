@@ -6,7 +6,7 @@ for (int i = 0; i < N; i++)
 {
     arr[i] = new Random().Next (0, 100);
     Console.Write(arr[i] + ", ");
-    if ((i % 2 != 0) && (arr[1] % 2 == 0))
+    if ((i % 2 != 0) && (arr[i] % 2 == 0))
     {
         countSum = countSum + arr[i];
     }
