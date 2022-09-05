@@ -7,9 +7,7 @@ for (int i = 0; i < N; i++)
     massiv[i] = Convert.ToInt32(Console.ReadLine());
 
     // massiv[i] = new Random().Next(N);
-//int max = Maximum(massiv);
-//int min = Minimum(massiv);
-//int tmp  = max - min;
+
 }
 int Minimum (int[] massiv) { //создаем метод который берет значения из массива
     int minimum = massiv [0]; // создаем и переменная будет равна индексу массива
@@ -34,5 +32,5 @@ int Maximum (int[] massiv) { // тоже самое только использ�
 }
 int max = Maximum(massiv);
 int min = Minimum(massiv);
-int tmp  = max - min;
-Console.WriteLine("разница "  + tmp );
+int result  = max - min;
+Console.WriteLine("разница "  + result);
