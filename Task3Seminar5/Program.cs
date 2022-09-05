@@ -25,7 +25,8 @@ int Maximum (int[] massiv) { // тоже самое только использ�
     int maximum = massiv [0];
     for (int i = 1; i < N; i++)
     {
-        if (massiv[i] > maximum) {
+        if (massiv[i] > maximum) 
+        {
             maximum = massiv[i];
         }
     }
