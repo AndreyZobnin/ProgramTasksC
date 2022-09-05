@@ -6,5 +6,5 @@ task1Seminar3,task2Seminar3,task3Seminar3 - ДЗ к семинару 3
 -----------------------------------------------
 task1Seminar4, task2Seminar4 - ДЗ к семинару 4
 -----------------------------------------------
-task1Seminar5, task2Seminar5 ДЗ к семинару 5
+task1Seminar5, task2Seminar5, task3Seminar5 ДЗ к семинару 5
 ----------------------------------------------
